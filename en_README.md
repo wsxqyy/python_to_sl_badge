@@ -1,3 +1,4 @@
+<a href="https://github.com/wsxqyy/python_to_sl_badge/blob/main/README.md">通过中文阅读</a>       
 # 🎮 Using Python to Add Player Titles in SCP: Secret Laboratory (Requires Plugin)
 
 Thank you for checking this out. This project is still being uploaded. Thank you!

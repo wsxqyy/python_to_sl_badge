@@ -1,3 +1,4 @@
+<a href="https://github.com/wsxqyy/python_to_sl_badge/blob/main/en_README.md">Read through English documents</a>
 # 🎮 使用python添加SCP秘密实验室 / SCP: Secret Laboratory游戏的玩家称号（需要结合插件）
 
 感谢您可以看到这里，此项目还在上传，谢谢您！
